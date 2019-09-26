@@ -4,4 +4,4 @@
 
 ## Conferences and Symposia
 
-## [Workshops](https://github.com/jananiravi/datascience-msu/tree/master/resources/) -- part of co-curricular [resources](https://github.com/jananiravi/datascience-msu/tree/master/resources/)
+### [Workshops](https://github.com/jananiravi/datascience-msu/tree/master/resources/), part of co-curricular [resources](https://github.com/jananiravi/datascience-msu/tree/master/resources/)!
