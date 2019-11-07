@@ -1,1 +1,1 @@
-# Courses and Teaching material
+# Programs & Courses
